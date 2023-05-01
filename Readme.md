@@ -3,6 +3,7 @@
 * Студент: [Артём Мартиянов](https://up.htmlacademy.ru/htmlcss/36/user/2264063).
 * Наставник: [Саша Сударев](https://htmlacademy.ru/profile/id1152185)
 
+* [Опубликованная версия] (https://artem-martiyanov.github.io/2264063-sedona-36/catalog.html#)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
